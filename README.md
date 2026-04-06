@@ -28,11 +28,11 @@ To compile the project, follow these steps:
 
 2. Clone the repository:
    ```
-   git clone https://github.com/Caitlin-Schaefer/cozy-cafe.git
+   git clone https://github.com/Caitlin-Schaefer/Cozy-Cafe.git
    ```
 3. Navigate to the project directory:
    ```
-   cd cozy-cafe/CPP\ Files
+   cd Cozy-Cafe/CPP\ Files
    ```
 4. Run the following command to compile the project:
    ```

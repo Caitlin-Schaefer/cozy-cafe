@@ -3,7 +3,7 @@
 Cozy Cafe is a simplified business simulator created in C++. It allows individuals of all ages to learn and develop
 their understanding of the world of business in a low-stakes environment. 
 
-## ** Features**
+## **Features**
 - Save Slots (1, 2, or 3 slots)
 - Progressively increasing difficulty
 - Easy to extend design for adding new features or challenges
